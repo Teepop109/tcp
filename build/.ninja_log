@@ -1999,3 +1999,173 @@
 95	241	7496419688869682	C:/Users/RYZEN 5/esp-tcp/tcp/build/bootloader/bootloader.elf	bf0815673bda4496
 95	241	7496419688869682	C:/Users/RYZEN 5/esp-tcp/tcp/build/bootloader/bootloader.bin	bf0815673bda4496
 95	241	7496419688869682	C:/Users/RYZEN 5/esp-tcp/tcp/build/bootloader/bootloader.map	bf0815673bda4496
+95	442	7496419688869682	bootloader-prefix/src/bootloader-stamp/bootloader-build	bf0815673bda4496
+95	442	7496419688869682	bootloader/bootloader.elf	bf0815673bda4496
+95	442	7496419688869682	bootloader/bootloader.bin	bf0815673bda4496
+95	442	7496419688869682	bootloader/bootloader.map	bf0815673bda4496
+95	442	7496419688869682	C:/Users/RYZEN 5/esp-tcp/tcp/build/bootloader-prefix/src/bootloader-stamp/bootloader-build	bf0815673bda4496
+95	442	7496419688869682	C:/Users/RYZEN 5/esp-tcp/tcp/build/bootloader/bootloader.elf	bf0815673bda4496
+95	442	7496419688869682	C:/Users/RYZEN 5/esp-tcp/tcp/build/bootloader/bootloader.bin	bf0815673bda4496
+95	442	7496419688869682	C:/Users/RYZEN 5/esp-tcp/tcp/build/bootloader/bootloader.map	bf0815673bda4496
+103	728	7496445666061753	esp-idf/main/CMakeFiles/__idf_main.dir/app_main.c.obj	30cb06bc09815f8b
+729	833	7496445667238831	esp-idf/main/libmain.a	c63cf7d6bad9d391
+833	7781	7496445736446160	esp-idf/esp_system/ld/sections.ld	261e9353eab7f184
+833	7781	7496445736446160	C:/Users/RYZEN 5/esp-tcp/tcp/build/esp-idf/esp_system/ld/sections.ld	261e9353eab7f184
+7782	11456	7496445773261071	mqtt_tcp.elf	ec13d6de0e5b0162
+11456	11700	7496445775919855	.bin_timestamp	acc8cb9caf76269
+11456	11700	7496445775919855	C:/Users/RYZEN 5/esp-tcp/tcp/build/.bin_timestamp	acc8cb9caf76269
+11700	11774	0	esp-idf/esptool_py/CMakeFiles/app_check_size	6f8a069cfd0f87a5
+11700	11774	0	C:/Users/RYZEN 5/esp-tcp/tcp/build/esp-idf/esptool_py/CMakeFiles/app_check_size	6f8a069cfd0f87a5
+98	334	7496419688869682	bootloader-prefix/src/bootloader-stamp/bootloader-build	bf0815673bda4496
+98	334	7496419688869682	bootloader/bootloader.elf	bf0815673bda4496
+98	334	7496419688869682	bootloader/bootloader.bin	bf0815673bda4496
+98	334	7496419688869682	bootloader/bootloader.map	bf0815673bda4496
+98	334	7496419688869682	C:/Users/RYZEN 5/esp-tcp/tcp/build/bootloader-prefix/src/bootloader-stamp/bootloader-build	bf0815673bda4496
+98	334	7496419688869682	C:/Users/RYZEN 5/esp-tcp/tcp/build/bootloader/bootloader.elf	bf0815673bda4496
+98	334	7496419688869682	C:/Users/RYZEN 5/esp-tcp/tcp/build/bootloader/bootloader.bin	bf0815673bda4496
+98	334	7496419688869682	C:/Users/RYZEN 5/esp-tcp/tcp/build/bootloader/bootloader.map	bf0815673bda4496
+110	761	7496447687283033	esp-idf/main/CMakeFiles/__idf_main.dir/app_main.c.obj	30cb06bc09815f8b
+763	851	7496447688313978	esp-idf/main/libmain.a	c63cf7d6bad9d391
+851	7832	7496447757879601	esp-idf/esp_system/ld/sections.ld	261e9353eab7f184
+851	7832	7496447757879601	C:/Users/RYZEN 5/esp-tcp/tcp/build/esp-idf/esp_system/ld/sections.ld	261e9353eab7f184
+7833	11577	7496447795368554	mqtt_tcp.elf	ec13d6de0e5b0162
+11578	11835	7496447798163986	.bin_timestamp	acc8cb9caf76269
+11578	11835	7496447798163986	C:/Users/RYZEN 5/esp-tcp/tcp/build/.bin_timestamp	acc8cb9caf76269
+11835	11918	0	esp-idf/esptool_py/CMakeFiles/app_check_size	6f8a069cfd0f87a5
+11835	11918	0	C:/Users/RYZEN 5/esp-tcp/tcp/build/esp-idf/esptool_py/CMakeFiles/app_check_size	6f8a069cfd0f87a5
+92	236	7496419688869682	bootloader-prefix/src/bootloader-stamp/bootloader-build	bf0815673bda4496
+92	236	7496419688869682	bootloader/bootloader.elf	bf0815673bda4496
+92	236	7496419688869682	bootloader/bootloader.bin	bf0815673bda4496
+92	236	7496419688869682	bootloader/bootloader.map	bf0815673bda4496
+92	236	7496419688869682	C:/Users/RYZEN 5/esp-tcp/tcp/build/bootloader-prefix/src/bootloader-stamp/bootloader-build	bf0815673bda4496
+92	236	7496419688869682	C:/Users/RYZEN 5/esp-tcp/tcp/build/bootloader/bootloader.elf	bf0815673bda4496
+92	236	7496419688869682	C:/Users/RYZEN 5/esp-tcp/tcp/build/bootloader/bootloader.bin	bf0815673bda4496
+92	236	7496419688869682	C:/Users/RYZEN 5/esp-tcp/tcp/build/bootloader/bootloader.map	bf0815673bda4496
+100	800	7496448652581451	esp-idf/main/CMakeFiles/__idf_main.dir/app_main.c.obj	30cb06bc09815f8b
+802	892	7496448654058120	esp-idf/main/libmain.a	c63cf7d6bad9d391
+892	8060	7496448725460099	esp-idf/esp_system/ld/sections.ld	261e9353eab7f184
+892	8060	7496448725460099	C:/Users/RYZEN 5/esp-tcp/tcp/build/esp-idf/esp_system/ld/sections.ld	261e9353eab7f184
+8060	11941	7496448764350465	mqtt_tcp.elf	ec13d6de0e5b0162
+11941	12341	7496448768539897	.bin_timestamp	acc8cb9caf76269
+11941	12341	7496448768539897	C:/Users/RYZEN 5/esp-tcp/tcp/build/.bin_timestamp	acc8cb9caf76269
+12341	12428	0	esp-idf/esptool_py/CMakeFiles/app_check_size	6f8a069cfd0f87a5
+12341	12428	0	C:/Users/RYZEN 5/esp-tcp/tcp/build/esp-idf/esptool_py/CMakeFiles/app_check_size	6f8a069cfd0f87a5
+98	386	7496419688869682	bootloader-prefix/src/bootloader-stamp/bootloader-build	bf0815673bda4496
+98	386	7496419688869682	bootloader/bootloader.elf	bf0815673bda4496
+98	386	7496419688869682	bootloader/bootloader.bin	bf0815673bda4496
+98	386	7496419688869682	bootloader/bootloader.map	bf0815673bda4496
+98	386	7496419688869682	C:/Users/RYZEN 5/esp-tcp/tcp/build/bootloader-prefix/src/bootloader-stamp/bootloader-build	bf0815673bda4496
+98	386	7496419688869682	C:/Users/RYZEN 5/esp-tcp/tcp/build/bootloader/bootloader.elf	bf0815673bda4496
+98	386	7496419688869682	C:/Users/RYZEN 5/esp-tcp/tcp/build/bootloader/bootloader.bin	bf0815673bda4496
+98	386	7496419688869682	C:/Users/RYZEN 5/esp-tcp/tcp/build/bootloader/bootloader.map	bf0815673bda4496
+107	742	7496451722509095	esp-idf/main/CMakeFiles/__idf_main.dir/app_main.c.obj	30cb06bc09815f8b
+743	832	7496451723675332	esp-idf/main/libmain.a	c63cf7d6bad9d391
+832	7652	7496451791616680	esp-idf/esp_system/ld/sections.ld	261e9353eab7f184
+832	7652	7496451791616680	C:/Users/RYZEN 5/esp-tcp/tcp/build/esp-idf/esp_system/ld/sections.ld	261e9353eab7f184
+7652	11313	7496451828243614	mqtt_tcp.elf	ec13d6de0e5b0162
+11313	11559	7496451830951273	.bin_timestamp	acc8cb9caf76269
+11313	11559	7496451830951273	C:/Users/RYZEN 5/esp-tcp/tcp/build/.bin_timestamp	acc8cb9caf76269
+11559	11636	0	esp-idf/esptool_py/CMakeFiles/app_check_size	6f8a069cfd0f87a5
+11559	11636	0	C:/Users/RYZEN 5/esp-tcp/tcp/build/esp-idf/esptool_py/CMakeFiles/app_check_size	6f8a069cfd0f87a5
+130	180	7496456363533668	esp-idf/main/CMakeFiles/__idf_main.dir/app_main.c.obj	30cb06bc09815f8b
+120	285	7496419688869682	bootloader-prefix/src/bootloader-stamp/bootloader-build	bf0815673bda4496
+120	285	7496419688869682	bootloader/bootloader.elf	bf0815673bda4496
+120	285	7496419688869682	bootloader/bootloader.bin	bf0815673bda4496
+120	285	7496419688869682	bootloader/bootloader.map	bf0815673bda4496
+120	285	7496419688869682	C:/Users/RYZEN 5/esp-tcp/tcp/build/bootloader-prefix/src/bootloader-stamp/bootloader-build	bf0815673bda4496
+120	285	7496419688869682	C:/Users/RYZEN 5/esp-tcp/tcp/build/bootloader/bootloader.elf	bf0815673bda4496
+120	285	7496419688869682	C:/Users/RYZEN 5/esp-tcp/tcp/build/bootloader/bootloader.bin	bf0815673bda4496
+120	285	7496419688869682	C:/Users/RYZEN 5/esp-tcp/tcp/build/bootloader/bootloader.map	bf0815673bda4496
+181	301	7496456364881825	esp-idf/main/libmain.a	c63cf7d6bad9d391
+302	7385	7496456435471923	esp-idf/esp_system/ld/sections.ld	261e9353eab7f184
+302	7385	7496456435471923	C:/Users/RYZEN 5/esp-tcp/tcp/build/esp-idf/esp_system/ld/sections.ld	261e9353eab7f184
+7385	11050	7496456472155094	mqtt_tcp.elf	ec13d6de0e5b0162
+11051	11296	7496456474833962	.bin_timestamp	acc8cb9caf76269
+11051	11296	7496456474833962	C:/Users/RYZEN 5/esp-tcp/tcp/build/.bin_timestamp	acc8cb9caf76269
+11296	11373	0	esp-idf/esptool_py/CMakeFiles/app_check_size	6f8a069cfd0f87a5
+11296	11373	0	C:/Users/RYZEN 5/esp-tcp/tcp/build/esp-idf/esptool_py/CMakeFiles/app_check_size	6f8a069cfd0f87a5
+97	335	7496419688869682	bootloader-prefix/src/bootloader-stamp/bootloader-build	bf0815673bda4496
+97	335	7496419688869682	bootloader/bootloader.elf	bf0815673bda4496
+97	335	7496419688869682	bootloader/bootloader.bin	bf0815673bda4496
+97	335	7496419688869682	bootloader/bootloader.map	bf0815673bda4496
+97	335	7496419688869682	C:/Users/RYZEN 5/esp-tcp/tcp/build/bootloader-prefix/src/bootloader-stamp/bootloader-build	bf0815673bda4496
+97	335	7496419688869682	C:/Users/RYZEN 5/esp-tcp/tcp/build/bootloader/bootloader.elf	bf0815673bda4496
+97	335	7496419688869682	C:/Users/RYZEN 5/esp-tcp/tcp/build/bootloader/bootloader.bin	bf0815673bda4496
+97	335	7496419688869682	C:/Users/RYZEN 5/esp-tcp/tcp/build/bootloader/bootloader.map	bf0815673bda4496
+107	694	7496459026996296	esp-idf/main/CMakeFiles/__idf_main.dir/app_main.c.obj	30cb06bc09815f8b
+695	792	7496459028188111	esp-idf/main/libmain.a	c63cf7d6bad9d391
+792	7807	7496459098106256	esp-idf/esp_system/ld/sections.ld	261e9353eab7f184
+792	7807	7496459098106256	C:/Users/RYZEN 5/esp-tcp/tcp/build/esp-idf/esp_system/ld/sections.ld	261e9353eab7f184
+7808	11549	7496459135548643	mqtt_tcp.elf	ec13d6de0e5b0162
+11550	11800	7496459138285758	.bin_timestamp	acc8cb9caf76269
+11550	11800	7496459138285758	C:/Users/RYZEN 5/esp-tcp/tcp/build/.bin_timestamp	acc8cb9caf76269
+11800	11889	0	esp-idf/esptool_py/CMakeFiles/app_check_size	6f8a069cfd0f87a5
+11800	11889	0	C:/Users/RYZEN 5/esp-tcp/tcp/build/esp-idf/esptool_py/CMakeFiles/app_check_size	6f8a069cfd0f87a5
+91	238	7496419688869682	bootloader-prefix/src/bootloader-stamp/bootloader-build	bf0815673bda4496
+91	238	7496419688869682	bootloader/bootloader.elf	bf0815673bda4496
+91	238	7496419688869682	bootloader/bootloader.bin	bf0815673bda4496
+91	238	7496419688869682	bootloader/bootloader.map	bf0815673bda4496
+91	238	7496419688869682	C:/Users/RYZEN 5/esp-tcp/tcp/build/bootloader-prefix/src/bootloader-stamp/bootloader-build	bf0815673bda4496
+91	238	7496419688869682	C:/Users/RYZEN 5/esp-tcp/tcp/build/bootloader/bootloader.elf	bf0815673bda4496
+91	238	7496419688869682	C:/Users/RYZEN 5/esp-tcp/tcp/build/bootloader/bootloader.bin	bf0815673bda4496
+91	238	7496419688869682	C:/Users/RYZEN 5/esp-tcp/tcp/build/bootloader/bootloader.map	bf0815673bda4496
+102	718	7496459934431540	esp-idf/main/CMakeFiles/__idf_main.dir/app_main.c.obj	30cb06bc09815f8b
+720	827	7496459935801717	esp-idf/main/libmain.a	c63cf7d6bad9d391
+827	7773	7496460004985680	esp-idf/esp_system/ld/sections.ld	261e9353eab7f184
+827	7773	7496460004985680	C:/Users/RYZEN 5/esp-tcp/tcp/build/esp-idf/esp_system/ld/sections.ld	261e9353eab7f184
+7774	11443	7496460041763211	mqtt_tcp.elf	ec13d6de0e5b0162
+11443	11696	7496460044499256	.bin_timestamp	acc8cb9caf76269
+11443	11696	7496460044499256	C:/Users/RYZEN 5/esp-tcp/tcp/build/.bin_timestamp	acc8cb9caf76269
+11696	11777	0	esp-idf/esptool_py/CMakeFiles/app_check_size	6f8a069cfd0f87a5
+11696	11777	0	C:/Users/RYZEN 5/esp-tcp/tcp/build/esp-idf/esptool_py/CMakeFiles/app_check_size	6f8a069cfd0f87a5
+82	367	7496419688869682	bootloader-prefix/src/bootloader-stamp/bootloader-build	bf0815673bda4496
+82	367	7496419688869682	bootloader/bootloader.elf	bf0815673bda4496
+82	367	7496419688869682	bootloader/bootloader.bin	bf0815673bda4496
+82	367	7496419688869682	bootloader/bootloader.map	bf0815673bda4496
+82	367	7496419688869682	C:/Users/RYZEN 5/esp-tcp/tcp/build/bootloader-prefix/src/bootloader-stamp/bootloader-build	bf0815673bda4496
+82	367	7496419688869682	C:/Users/RYZEN 5/esp-tcp/tcp/build/bootloader/bootloader.elf	bf0815673bda4496
+82	367	7496419688869682	C:/Users/RYZEN 5/esp-tcp/tcp/build/bootloader/bootloader.bin	bf0815673bda4496
+82	367	7496419688869682	C:/Users/RYZEN 5/esp-tcp/tcp/build/bootloader/bootloader.map	bf0815673bda4496
+93	723	7496462906137796	esp-idf/main/CMakeFiles/__idf_main.dir/app_main.c.obj	30cb06bc09815f8b
+725	815	7496462907202455	esp-idf/main/libmain.a	c63cf7d6bad9d391
+815	7806	7496462976876851	esp-idf/esp_system/ld/sections.ld	261e9353eab7f184
+815	7806	7496462976876851	C:/Users/RYZEN 5/esp-tcp/tcp/build/esp-idf/esp_system/ld/sections.ld	261e9353eab7f184
+7806	11479	7496463013653276	mqtt_tcp.elf	ec13d6de0e5b0162
+11480	11721	7496463016257613	.bin_timestamp	acc8cb9caf76269
+11480	11721	7496463016257613	C:/Users/RYZEN 5/esp-tcp/tcp/build/.bin_timestamp	acc8cb9caf76269
+11721	11800	0	esp-idf/esptool_py/CMakeFiles/app_check_size	6f8a069cfd0f87a5
+11721	11800	0	C:/Users/RYZEN 5/esp-tcp/tcp/build/esp-idf/esptool_py/CMakeFiles/app_check_size	6f8a069cfd0f87a5
+94	387	7496419688869682	bootloader-prefix/src/bootloader-stamp/bootloader-build	bf0815673bda4496
+94	387	7496419688869682	bootloader/bootloader.elf	bf0815673bda4496
+94	387	7496419688869682	bootloader/bootloader.bin	bf0815673bda4496
+94	387	7496419688869682	bootloader/bootloader.map	bf0815673bda4496
+94	387	7496419688869682	C:/Users/RYZEN 5/esp-tcp/tcp/build/bootloader-prefix/src/bootloader-stamp/bootloader-build	bf0815673bda4496
+94	387	7496419688869682	C:/Users/RYZEN 5/esp-tcp/tcp/build/bootloader/bootloader.elf	bf0815673bda4496
+94	387	7496419688869682	C:/Users/RYZEN 5/esp-tcp/tcp/build/bootloader/bootloader.bin	bf0815673bda4496
+94	387	7496419688869682	C:/Users/RYZEN 5/esp-tcp/tcp/build/bootloader/bootloader.map	bf0815673bda4496
+106	788	7496464268433377	esp-idf/main/CMakeFiles/__idf_main.dir/app_main.c.obj	30cb06bc09815f8b
+790	908	7496464269849720	esp-idf/main/libmain.a	c63cf7d6bad9d391
+909	8153	7496464342066606	esp-idf/esp_system/ld/sections.ld	261e9353eab7f184
+909	8153	7496464342066606	C:/Users/RYZEN 5/esp-tcp/tcp/build/esp-idf/esp_system/ld/sections.ld	261e9353eab7f184
+8153	12097	7496464381518808	mqtt_tcp.elf	ec13d6de0e5b0162
+12097	12355	7496464384317411	.bin_timestamp	acc8cb9caf76269
+12097	12355	7496464384317411	C:/Users/RYZEN 5/esp-tcp/tcp/build/.bin_timestamp	acc8cb9caf76269
+12356	12444	0	esp-idf/esptool_py/CMakeFiles/app_check_size	6f8a069cfd0f87a5
+12356	12444	0	C:/Users/RYZEN 5/esp-tcp/tcp/build/esp-idf/esptool_py/CMakeFiles/app_check_size	6f8a069cfd0f87a5
+112	326	7496419688869682	bootloader-prefix/src/bootloader-stamp/bootloader-build	bf0815673bda4496
+112	326	7496419688869682	bootloader/bootloader.elf	bf0815673bda4496
+112	326	7496419688869682	bootloader/bootloader.bin	bf0815673bda4496
+112	326	7496419688869682	bootloader/bootloader.map	bf0815673bda4496
+112	326	7496419688869682	C:/Users/RYZEN 5/esp-tcp/tcp/build/bootloader-prefix/src/bootloader-stamp/bootloader-build	bf0815673bda4496
+112	326	7496419688869682	C:/Users/RYZEN 5/esp-tcp/tcp/build/bootloader/bootloader.elf	bf0815673bda4496
+112	326	7496419688869682	C:/Users/RYZEN 5/esp-tcp/tcp/build/bootloader/bootloader.bin	bf0815673bda4496
+112	326	7496419688869682	C:/Users/RYZEN 5/esp-tcp/tcp/build/bootloader/bootloader.map	bf0815673bda4496
+123	763	7496465687803772	esp-idf/main/CMakeFiles/__idf_main.dir/app_main.c.obj	30cb06bc09815f8b
+765	859	7496465688891688	esp-idf/main/libmain.a	c63cf7d6bad9d391
+859	7811	7496465758142111	esp-idf/esp_system/ld/sections.ld	261e9353eab7f184
+859	7811	7496465758142111	C:/Users/RYZEN 5/esp-tcp/tcp/build/esp-idf/esp_system/ld/sections.ld	261e9353eab7f184
+7811	11582	7496465795925403	mqtt_tcp.elf	ec13d6de0e5b0162
+11583	11831	7496465798613993	.bin_timestamp	acc8cb9caf76269
+11583	11831	7496465798613993	C:/Users/RYZEN 5/esp-tcp/tcp/build/.bin_timestamp	acc8cb9caf76269
+11831	11921	0	esp-idf/esptool_py/CMakeFiles/app_check_size	6f8a069cfd0f87a5
+11831	11921	0	C:/Users/RYZEN 5/esp-tcp/tcp/build/esp-idf/esptool_py/CMakeFiles/app_check_size	6f8a069cfd0f87a5
